@@ -1,5 +1,5 @@
-# teaching-jxs-tp5
-TP5 : AngularJS
+
+
 # pokedex
 TP6 de SIR, portant sur les technologies suivantes: 
 - Yeoman et son générateur de projet angularjs
